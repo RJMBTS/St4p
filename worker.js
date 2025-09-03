@@ -3,11 +3,11 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: 'tatatv.cc', // Stalker-Portal host (no /stalker_portal/c/ here)
-    mac_address: '00:1A:79:00:13:DA',
-    serial_number: '8DC34D20E1021',
-    device_id: '04AAC14D19D6184933091188770C419C0FB2D744BF402A8F56C6654A3A9CAA43',
-    device_id_2: '04AAC14D19D6184933091188770C419C0FB2D744BF402A8F56C6654A3A9CAA43',
+    host: 'tv.stream4k.cc', // Stalker-Portal host (no /stalker_portal/c/ here)
+    mac_address: '00:1A:79:00:01:B2',
+    serial_number: 'F1F01D055C112',
+    device_id: '48660C2F0697446BA49440761C73E6CB98494D5FFA04D3F7C5EC7652016572FE',
+    device_id_2: '48660C2F0697446BA49440761C73E6CB98494D5FFA04D3F7C5EC7652016572FE',
     stb_type: 'MAG250',
     api_signature: '263',
 };
